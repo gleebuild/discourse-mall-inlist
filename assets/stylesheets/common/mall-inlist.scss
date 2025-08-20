@@ -1,0 +1,6 @@
+.mall-inlist-wrapper { padding: 0 12px 16px; }
+.mall-inlist-loading { opacity: .65; padding: 8px; }
+.mall-inlist-error { color: var(--danger); padding: 8px 0; }
+.navigation-container .nav-pills a[data-mall-tab].active {
+  border-bottom: 2px solid var(--tertiary);
+}
